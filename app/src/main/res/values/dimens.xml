@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin">10dp</dimen>
+
+    <!--TextSize-->
+    <dimen name="textHeader">18sp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="icon">30dp</dimen>
+
+
+</resources>
